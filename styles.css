@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url('./trade_backgroud.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.content {
+    text-align: center;
+    padding: 2em;
+    margin-top: 20vh;
+    color: white;
+}
+  
+.content h1 {
+    font-size: 4em;
+    margin-bottom: 1em;
+}.content p{
+    margin-top: 50vh;
+    font-size: large;
+}
+
+
